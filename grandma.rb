@@ -28,14 +28,4 @@ end
 
 speak_to_grandma ("HELLO THERE")
 
-    
-    
-    phrase.upcase
-    puts "No, NOT SINCE 1938!"
-  else
-    puts"HUH?! SPEAK UP, SONNY!"
-  end
-end 
-  
-
   
