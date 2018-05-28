@@ -26,6 +26,6 @@ def speak_to_grandma (phrase)
   end
 end
 
-speak_to_grandma ("HELLO THERE")
+speak_to_grandma ("Hi Nana, How are you?")
 
   
